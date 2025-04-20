@@ -5,7 +5,7 @@
   },
   "Auto Arrest v1": {
     "changelog": "- Glad is skid and we need to release autorob",
-    "url": "loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/1a827591c49139f5234d0cf3400ca612.lua"))()"
+    "url": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/1a827591c49139f5234d0cf3400ca612.lua\"))()"
   },
   "Crate Farm v1": {
     "changelog": "- Better crate scanning\n- Less lag",
