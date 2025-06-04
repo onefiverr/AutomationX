@@ -1,6 +1,6 @@
 {
   "Auto Rob v2": {
-    "changelog": "- Released V2",
+    "changelog": "<@&1341511597784567998> \nAuto Crate Changes:\n```diff\n*Fixed Airdrop scanning problems\n*Fixed Camera glitches\n*Potentially fixed crashing\n*Small bug fixes\n+Added Prefer Small server toggle (10-20 Players)\n```",
     "url": "https://api.luarmor.net/files/v3/loaders/074a1ad925c64dfc832ca2acc86caada.lua"
   },
   "Auto Arrest v2": {
