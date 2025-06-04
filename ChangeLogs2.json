@@ -8,7 +8,7 @@
     "url": "https://api.luarmor.net/files/v3/loaders/1a827591c49139f5234d0cf3400ca612.lua"
   },
   "Auto Crate v2": {
-    "changelog": "*Fixed Airdrop scanning problems\n*Fixed Camera glitches\n*Potentially fixed crashing\n*Small bug fixes\n+Added Prefer Small server toggle (10-20 Players)",
+    "changelog": "*Improved Casino\n+Added Instant Casino",
     "url": "https://api.luarmor.net/files/v3/loaders/c91ab53280c5989427087550442ac468.lua"
   }
 }
